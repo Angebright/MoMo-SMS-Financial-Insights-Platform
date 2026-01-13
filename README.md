@@ -32,6 +32,9 @@ It extracts SMS backup data, parses relevant transaction details, stores them in
 
 
 ## Scrum board link
+We used trello to manage our work
+
+[Trello Scrum Board](https://trello.com/invite/b/6963f35b6c19857a6035fa53/ATTIb3086ddc67e91fa58bf75b42eaaba45784D88C5E/momo-transaction-analytics-scrum-board)
 
 ## Technologies
 - Draw.io(Architecture Design)
